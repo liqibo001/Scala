@@ -1,0 +1,10 @@
+# Project exclude paths
+/day01/target/
+/day02/target/
+/day03/target/
+/day04/target/
+/day05/target/
+/day06/target/
+/day07/target/
+/day08/target/
+/day_10/target/
