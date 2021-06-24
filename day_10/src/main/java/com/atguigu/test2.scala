@@ -52,6 +52,7 @@ object test2 {
       if (j<=1){
         1
       }else{
+//        test
         j*fun3(j-1)
       }
     }
